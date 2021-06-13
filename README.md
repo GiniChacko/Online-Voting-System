@@ -1,6 +1,6 @@
 # Online-Voting-System
 
-## ABSTRACT
+## ➢ ABSTRACT
 “ ONLINE VOTING SYSTEM ” is an online voting technique. In this system, authorized voters can give his\her vote online without going to any physical polling station. There is a database which is maintained in which all the names of voters with complete information is stored.
 
 In “ ONLINE VOTING SYSTEM ” a voter can use his\her voting right online without any difficulty. He\She has to be registered first for him/her to vote. Registration is mainly done by the system administrator for security reasons. The system Administrator registers the voters on a special site of the system visited by him/her only by simply filling a registration form to register voter. Citizens seeking registration are expected to contact the system administrator to submit their details and get their registration done.
@@ -8,7 +8,7 @@ In “ ONLINE VOTING SYSTEM ” a voter can use his\her voting right online with
 After registration, the voter is assigned a secret Voter ID with which he/she can use to log into the system and enjoy services provided by the system such as voting. If invalid/wrong details are submitted, then the citizen is not registered to vote.
 
 
-## SOFTWARE REQUIREMENTS
+## ➢ SOFTWARE REQUIREMENTS
 Operating System : Any version of Windows NT family (4.0 &above)
  
  
@@ -18,7 +18,7 @@ Backend : php
 
 Database : mysql
 
-## INSTRUCTIONS
+## ➢ INSTRUCTIONS
 
 DOWNLOAD "Online Voting Management System Project"
 
@@ -42,15 +42,15 @@ DOWNLOAD "Online Voting Management System Project"
    username:  crce
    password:  password
 
-## ER DIAGRAM
+## ➢ ER DIAGRAM
 
 ![OVS ER Diagram](https://user-images.githubusercontent.com/72904996/121797612-f1b2d600-cc3e-11eb-9dfc-836fc1da8591.jpg)
 
-## RELATIONAL MODEL
+## ➢ RELATIONAL MODEL
 
 ![Relational Model](https://user-images.githubusercontent.com/72904996/121797616-fd9e9800-cc3e-11eb-9b94-b8eebe829a56.jpg)
 
-## SCREENSOTS
+## ➢ SCREENSOTS
 
 ![admin_login](https://user-images.githubusercontent.com/72904996/121797630-16a74900-cc3f-11eb-9762-3be8ae1cb6e8.png)
 

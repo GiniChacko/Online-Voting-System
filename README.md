@@ -8,7 +8,7 @@ In “ ONLINE VOTING SYSTEM ” a voter can use his\her voting right online with
 After registration, the voter is assigned a secret Voter ID with which he/she can use to log into the system and enjoy services provided by the system such as voting. If invalid/wrong details are submitted, then the citizen is not registered to vote.
 
 ## ➢ SOFTWARE REQUIREMENTS
-<ul type="square">
+<ul type="arrow">
   <li> <b> Operating System : </b> Any version of Windows NT family (4.0 &above) </li>
    &emsp;
   <li> <b> Frontend : </b>

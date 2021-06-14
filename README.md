@@ -79,7 +79,7 @@ DOWNLOAD "Online Voting Management System Project"
 
 ![Relational Model](https://user-images.githubusercontent.com/72904996/121797616-fd9e9800-cc3e-11eb-9b94-b8eebe829a56.jpg)
 
-## ➢ SCREENSOTS
+## ➢ SCREENSHOTS
 
 ![admin_login](https://user-images.githubusercontent.com/72904996/121797630-16a74900-cc3f-11eb-9762-3be8ae1cb6e8.png)
 
